@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">رجاله الحجوزات</string>
+    <string name="tab_bookings">الحجوزات</string>
+    <string name="tab_payments">المدفوعات</string>
+    <string name="tab_squad">الشلة</string>
+    <string name="tab_ratings">الأفضل</string>
+    <string name="new_booking">حجز جديد</string>
+    <string name="add_player">إضافة لاعب</string>
+    <string name="currency_egp">ج.م</string>
+    <string name="status_going">جاي</string>
+    <string name="status_not_going">مش جاي</string>
+    <string name="status_pending">لم يرد</string>
+    <string name="payment_paid">مدفوع</string>
+    <string name="payment_unpaid">غير مدفوع</string>
+    <string name="payment_exempt">مش هيدفع</string>
+    <string name="method_cash">كاش</string>
+    <string name="method_mobile">محفظة موبايل</string>
+    <string name="method_card">بطاقة بنكية</string>
+    <string name="method_instapay">إنستاباي</string>
+    <string name="method_bank">تحويل بنكي</string>
+    <string name="hero_banner_desc">صورة خلفية ملعب كرة قدم مضاء ليلاً</string>
+    <string name="empty_pitch_desc">رسم توضيحي لكرة قدم على أرضية الملعب</string>
+    <string name="back_button_desc">رجوع</string>
+    <string name="share_summary_desc">مشاركة ملخص الحجز</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "رجاله الحجوزات",
+  "description": "تطبيق لتنظيم حجوزات مباريات كرة القدم، متابعة حضور اللاعبين، وإدارة المدفوعات بسهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
